@@ -1,6 +1,8 @@
 # One Day in the World — 18 November 2026
 
-[![Submissions](https://make.fun/api/badges/news-image-20261118/submissions.svg)](https://make.fun/bounty/news-image-20261118) [![Pool](https://make.fun/api/badges/news-image-20261118/pool.svg)](https://make.fun/bounty/news-image-20261118) [![Deadline](https://make.fun/api/badges/news-image-20261118/deadline.svg)](https://make.fun/bounty/news-image-20261118)
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/silver-wren-74/news-image-20261118-entry/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/silver-wren-74/news-image-20261118-entry/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
 My entry for the make.fun bounty [news-image-20261118](https://make.fun/bounty/news-image-20261118): one image that sums up the world news of **Wednesday 18 November 2026**.
 
